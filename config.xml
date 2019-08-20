@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
-	id        = "com.justrun.play-tablet"
+	id        = "com.justrun.playtablet"
 	versionCode="100"
 	version   = "1.0.0">
-	<name>Just Run Play - Tablet</name>
+	<name>Just Run Tablet</name>
 	<description>
-		Just Run - Tablet
+		Just Run
 	</description>
 
 	<author href="http://justrunclub.com" email="contato@justrunclub.com">
-		Just Run - Tablet
+		Just Run
 	</author>
 
 	<platform name="android">
