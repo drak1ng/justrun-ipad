@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
-	id        = "com.justrun.playtablet"
-	versionCode="100"
-	version   = "1.0.0">
-	<name>Just Run Tablet</name>
+	id        = "com.justrun.play"
+	versionCode="106"
+	version   = "1.0.6">
+	<name>Just Run Play</name>
 	<description>
 		Just Run
 	</description>
